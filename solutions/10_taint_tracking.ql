@@ -1,3 +1,7 @@
+/**
+ * @kind path-problem
+ */
+
 import cpp
 import semmle.code.cpp.dataflow.TaintTracking
 import DataFlow::PathGraph
